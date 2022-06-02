@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu BPa cụa tớ!",
-  text2: "Tớ có điều này muốn nói với cậu rằng.",
-  text3: "Cậu có bit tớ yêu BPa lắm khum hả? ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "hông....hông có bic...hông...hông có nhớ???",
+  text1: "He luu kem iu cụa ank!",
+  text2: "ank có điều này muốn nói với kem rằng.",
+  text3: "kem có bic ank yêu kem nhìu lắm khum hả? ._.",
+  text4: "Nếu kem ko trả lời mà thoát ra tức là muốn làm vợ ank rùi đó nha :v",
+  text5: "hông bíc, hông bic nứa, hông bic",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do tớ yêu BPa vcl là vì :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì BPa xinh vclllll =))))",
-  text10: " ^^ Yêu cậu 300.000",
+  text7: "lí do ank yêu kem vcl là vì :vvvv",
+  text8: "Gửi cho ank <3",
+  text9: "Vì em cuteeeeee vc =))))",
+  text10: " ^^ Yêu emmmm 300.000",
   text11:
-    "cho nên là BPa mãi xinh đẹp mãi hạnh phúc nhé yêu lắm luon í mặc dù nó sến vcl BPa ạ :))))",
+    "cho nên là kemowi mãi xinh đẹp mãi hạnh phúc nhé yêu lắm luon í mặc dù nó sến vcl emiu ạ :))))",
   text12: "Okii lunn <3",
 };
 
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/kemmm.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',

@@ -36,8 +36,8 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/kemmm.jpg",
-      imageWidth: 300,
-      imageHeight: 300,
+      imageWidth: 414,
+      imageHeight: 368,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
